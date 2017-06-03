@@ -1,4 +1,4 @@
-//creating Objects with physics
+
 function setup()
 {
     createCanvas(outerWidth,outerHeight);
