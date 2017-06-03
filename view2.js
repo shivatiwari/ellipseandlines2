@@ -6,10 +6,9 @@ function setup()
 }
 function draw()
 {
-    // background(255);
+    
    if(mouseIsPressed)
-        {
-            
+        { 
     fill(255);
     strokeWeight(5);
     stroke(random(255,0,0));
